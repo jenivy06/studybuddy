@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS `flashcard`;
+CREATE DATABASE `flashcard`;
